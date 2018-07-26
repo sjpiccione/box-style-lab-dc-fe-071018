@@ -54,3 +54,13 @@ h4 {
 .large {
   width: 303%;
 }
+.bg { 
+    background-image: url("images/white-wood.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img {
+  border-style: solid;
+}
